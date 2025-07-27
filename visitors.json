@@ -1,0 +1,21 @@
+{
+  "count": 4,
+  "visitors": [
+    {
+      "fingerprint": "f58854f8940efe32b13ed96042997d12",
+      "firstVisit": "2025-07-27T15:59:49.282Z"
+    },
+    {
+      "fingerprint": "a751875dc13877e6a0bdf36c28ed08bb",
+      "firstVisit": "2025-07-27T16:00:45.492Z"
+    },
+    {
+      "fingerprint": "9336d49396edcf4a8b461d3c874758d4",
+      "firstVisit": "2025-07-27T16:12:06.620Z"
+    },
+    {
+      "fingerprint": "44b84f9c2e79d04b4354ac24cc6b732e",
+      "firstVisit": "2025-07-27T16:17:07.587Z"
+    }
+  ]
+}
